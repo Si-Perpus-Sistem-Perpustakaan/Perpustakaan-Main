@@ -17,6 +17,10 @@ Sistem Informasi Perpustakaan adalah aplikasi berbasis web yang dirancang untuk 
    - Menghitung denda jika buku terlambat dikembalikan.
    - Menyimpan data peminjaman dan pengembalian buku.
 
+### 4. **Laporan Sirkulasi**
+   - Mencetak laporan sirkulasi selama satu bulan.
+   - Menghitung total denda keseluruhan selama satu bulan.
+
 ### 4. **Petugas Sirkulasi**
    - Mengelola petugas yang bertugas di bagian peminjaman dan pengembalian.
 
@@ -25,5 +29,4 @@ Sistem Informasi Perpustakaan adalah aplikasi berbasis web yang dirancang untuk 
 - **PHP**: Bahasa pemrograman untuk pengembangan aplikasi.
 - **MySQL**: Sistem manajemen database untuk menyimpan data.
 - **HTML/CSS/JavaScript**: Untuk tampilan frontend aplikasi.
-- **PHPUnit**: Untuk pengujian unit aplikasi.
 - **Bootstrap**: Untuk desain tampilan yang responsif dan modern.
